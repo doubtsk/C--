@@ -7,10 +7,11 @@ int main()
     using namespace std;
     int win_num = 0;  //赢！
     int lose_num = 0; //输！
-    int num = 0;      //总数
+    int num = 0;      
+    
     cout << "石头(0),剪刀(1),(布)" << endl;
 
-    while (num != 'g')
+    while (num != 3)
     {
         int user = 0;
         cin >> user;
