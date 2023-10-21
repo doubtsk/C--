@@ -10,7 +10,7 @@ int main()
     srand((unsigned)time(NULL));
     int rand1 = 1200;
     int hits = 0;
-    int t1 = ; // Use chrono without std::
+    //int t1 =  // Use chrono without std::
     for (int i = 1; i < rand1; i++)
     {
         int x = rand();
