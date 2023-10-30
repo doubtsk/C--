@@ -1,3 +1,5 @@
+#ifndef __HEADFILE_H__
+#define __HEADFILE_H__
 class Box
 {
 public:
@@ -20,3 +22,4 @@ void Box::set(double len, double bre, double hei)
     breadth = bre;
     height = hei;
 }
+#endif

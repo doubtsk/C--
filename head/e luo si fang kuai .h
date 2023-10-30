@@ -1,3 +1,6 @@
+#ifndef __HEADFILE_H__
+#define __HEADFILE_H__
+
 #include <iostream>
 #include <string>
 #include <cstdlib>
@@ -63,3 +66,5 @@ public:
 // Z形
 #define g1 17
 #define g2 18
+
+#endif
