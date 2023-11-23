@@ -13,8 +13,8 @@
                 "_UNICODE"
             ],
             "compilerPath": "C:\\mingw64\\bin\\gcc.exe",
-            "cStandard": "gnu17",
-            "cppStandard": "gnu++17",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
             "intelliSenseMode": "windows-gcc-x64"
         }
     ],

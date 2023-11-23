@@ -2,7 +2,9 @@
     "files.associations": {
         "iostream": "cpp",
         "chrono": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "cstdlib": "cpp",
+        "thread": "cpp"
     },
     "sqltools.connections": [
         {
