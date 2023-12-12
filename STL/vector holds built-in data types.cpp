@@ -1,9 +1,9 @@
+// vector存放内置数据类型
 #include <iostream>
 #include <windows.h>
 #include <vector>
 #include <algorithm>
 using namespace std;
-// vector存放内置数据类型
 void MyPrint(int val)
 {
     cout << val << endl;

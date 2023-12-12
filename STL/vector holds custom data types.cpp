@@ -1,8 +1,8 @@
+// vector存放自定义数据类型
 #include <iostream>
 #include <algorithm>
 #include <string>
 #include <vector>
-// vector存放自定义数据类型
 using namespace std;
 
 class person
